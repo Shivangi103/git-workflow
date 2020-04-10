@@ -1,6 +1,7 @@
 Hello World!
 
 <<<<<<< HEAD
+
  feature1()
 {
 
@@ -8,11 +9,17 @@ Hello World!
 
 }
 
-=======
+
 feature2()
 {
 
 // code for feature2 branch
 
 }
->>>>>>> feature2
+
+=======
+security patch()
+{
+
+}
+>>>>>>> hotfix

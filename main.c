@@ -1,6 +1,7 @@
 Hello World!
 
 
+
  feature1()
 {
 
@@ -13,6 +14,11 @@ feature2()
 {
 
 // code for feature2 branch
+
+}
+
+security patch()
+{
 
 }
 
